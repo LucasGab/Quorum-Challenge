@@ -19,3 +19,15 @@ Activate the virtual enviroment and install the requirements libs:
 source venv/bin/activate 
 pip install -r requirements.txt
 ```
+
+## Run
+
+To run the project:
+
+```bash
+python challenge.py
+```
+
+## Writeup file
+
+The name of the file with the answers is ANSWERS.md
